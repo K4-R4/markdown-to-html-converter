@@ -7,5 +7,5 @@ pip install markdown
 ```
 ## 使用方法
 ```
-python3 file-converter.py markdown input.md output.html
+python3 file-converter.py markdown sample.md output.html
 ```
